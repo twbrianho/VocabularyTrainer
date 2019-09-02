@@ -1,9 +1,11 @@
 # Vocabulary Trainer
 Simple command line tool for memorizing a custom list of vocabulary words.
+
 *Use Python 3.6+ to be safe.*
+
 *Made for Macs.*
 
-4 files inside:
+There are 4 files inside:
 - "vocab_trainer.py": run this file
 - "vocab_list.txt": no need to modify
 - "progress_data.csv": no need to modify
