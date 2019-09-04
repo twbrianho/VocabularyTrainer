@@ -1,6 +1,8 @@
 # Vocabulary Trainer
 Simple command line tool for memorizing a custom list of vocabulary words.
 
+*Deprecated as of 2019*
+
 *Use Python 3.6+ to be safe.*
 
 *Made for Macs.*
